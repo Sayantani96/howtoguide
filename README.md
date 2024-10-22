@@ -28,6 +28,7 @@ This guide will focus on the PixlrE tool as that’s the professional version wi
 ### Step 1: Accessing PixlrE Editor on Browser
 To access PixlrE, the user needs to visit https://pixlr.com/e/
 The website looks something like this:<br/>
+![Photo1](https://github.com/user-attachments/assets/1173f201-c50b-422f-8a3e-97a3c7a9e01b)
 
  <br/>
 
