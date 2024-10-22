@@ -2,8 +2,7 @@
 ## Tool Description
 Pixlr is free online software with a powerful suite of photo and video editing tools. The separate versions for both newbies and experienced users cater to the demands of both beginners and professionals.
 You will get all the basic features needed in an editing tool like cropping images, filling in colors, adjusting shadows, and many more. <br/> The best part about Pixlr is that you can directly modify a picture from a URL location here.<br/>
-There are two versions available in free Pixlr, ** PixlrX and ** 
-PixlrE. Here are some of their main features:
+There are two versions available in free Pixlr, _PixlrX and _PixlrE. Here are some of their main features:
 Features of PixlrX
 ●	An excellent tool for beginners. Helps aspiring photo editors hone their editing skills
 ●	Provides resizing and rotating features. There is also a feature to flip the pictures to 180 degrees.
