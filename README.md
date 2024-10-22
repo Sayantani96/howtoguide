@@ -29,9 +29,9 @@ This guide will focus on the PixlrE tool as that’s the professional version wi
 To access PixlrE, the user needs to visit https://pixlr.com/e/
 The website looks something like this:<br/>
 
- ![Photo1](https://github.com/user-attachments/assets/5fd84970-d718-44fc-99f0-2c978fcc1aab)<br/>
+ <br/>
 
-The user needs to Sign up or log in to the Pixlr Editor using their Email Id. After the authentication is completed, the user will be redirected to the page where they will upload their images to edit.<br/>
+The user needs to Sign up or log in to the Pixlr Editor using their Email address. After the authentication is completed, the user will be redirected to the page where they will upload their images to edit.<br/>
 
  ![Photo2](https://github.com/user-attachments/assets/d4372920-0d33-4cd4-a8f7-23c911f881c4)<br/>
 
