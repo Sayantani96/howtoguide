@@ -28,12 +28,17 @@ This guide will focus on the PixlrE tool as that’s the professional version wi
 ### Step 1: Accessing PixlrE Editor on Browser
 To access PixlrE, the user needs to visit https://pixlr.com/e/
 The website looks something like this:
- 
+
+ ![Photo1](https://github.com/user-attachments/assets/5fd84970-d718-44fc-99f0-2c978fcc1aab)
+
 The user needs to Sign up or log in to the Pixlr Editor using their Email Id. After the authentication is completed, the user will be redirected to the page where they will upload their images to edit.
- 
+
+ ![Photo2](https://github.com/user-attachments/assets/d4372920-0d33-4cd4-a8f7-23c911f881c4)
+
 A photo saved on the desktop can be uploaded or one can load the URL of an online image they want to edit and save as a graphic. The user can also click on the images option on the left sidebar and get some free images to edit.
  
 
+![Photo3](https://github.com/user-attachments/assets/fc0b34af-b699-44b7-91ff-3ba71bcf6f30)
 After the image is uploaded, finally the user reaches the editor page
 
  
@@ -41,25 +46,31 @@ After the image is uploaded, finally the user reaches the editor page
 Finally, it’s time to edit the photo. There are some highly popular functionalities used by majority of the PixlrE users. Here’s a guide to some of them:
 -	Cropping Images
 The most used editing option is cropping images. The user can use the scissor option from the toolbar on the left-hand side and cut out the unnecessary portions of a picture.
- 
+ ![Photo4](https://github.com/user-attachments/assets/e8cd1966-375b-4116-82cf-d187d70f783d)
+
 -	Adjusting brightness and Color
 The editor can easily adjust the brightness in PixlrE by clicking the “Adjustment” option in the menu bar and clicking on the “Brightness and Contrast” option. In the “Adjustment” dropdown one can find a lot of options to get the optimum color correction for the image.
 
- 
+ ![Photo5](https://github.com/user-attachments/assets/391a415d-3d2a-4c7b-812d-ba77d0c5d6af)
+
 -	Adding Layers
 To create animations and effects the editor may want to add layers to their pictures. PixlrE provides an easy way to add layers to the images. 
 Click on the Layer Menu in the Navbar. You can choose an element from the layer menu to add to the effects of the image.
 
  
-After adding the required effects the editor can easily preview the changes. In case they don’t like the changes they can simply Undo the changes from the Edit Menu of the Navbar or can press Ctrl+Z
+After add![Photo6](https://github.com/user-attachments/assets/c6c2cfe5-021e-4a28-a8fe-14d3aa2c08fc)
+ing the required effects the editor can easily preview the changes. In case they don’t like the changes they can simply Undo the changes from the Edit Menu of the Navbar or can press Ctrl+Z
 There are a lot of other editing tools like adding captions of customized fonts to the image or using the Magic Wand that automatically selects similar areas of the pictures that have the same colors.
 
+![Photo7](https://github.com/user-attachments/assets/b942e1e3-c61b-496b-b564-ef9c52fd90cb)
 One can smoothly create a graphic image using all these tools. After the picture is created, the final step is to save the image.
 ### Step 3: Downloading the Photo after Editing
  
+![Photo8](https://github.com/user-attachments/assets/83e65a35-9670-426d-8e28-5878cbe8a346)
 After the image editing is completed, the user must not forget to save the picture on their desktop.
 It’s highly recommended that the editor saves a.PXZ copy of the Pixlr file that can be edited later. 
 A JPG or a PNG file would be perfect for social media applications while a WebP file would be the best for website images.
+![Photo9](https://github.com/user-attachments/assets/ee7f4195-d4e7-4c30-89ca-2a2f6470c222)
  
 ## Key Takeaways…
 
