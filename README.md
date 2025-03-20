@@ -1,6 +1,6 @@
 # How to Use Pixlr for Free: A Step-by-Step Guide to Online Photo Editing
 ## Tool Description
-Pixlr is free online software with a powerful suite of photo and video editing tools. Its separate versions for newbies and experienced users cater to both beginners and professionals.
+Pixlr is a free online software with a powerful photo and video editing tool suite. Its separate versions for newbies and experienced users cater to both beginners and professionals.
 You will get all the basic features like cropping images, filling in colors, adjusting shadows, and many more in the free version itself. <br/> The best part about Pixlr is that you can directly modify a picture from a URL location here.<br/>
 There are two versions available in free Pixlr, **PixlrX** and **PixlrE**. <br/>
 The major features of **PixlrX** are listed below. <br/>
