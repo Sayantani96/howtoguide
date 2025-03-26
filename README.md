@@ -32,7 +32,7 @@ Let’s walk through the Pixlr software and understand its major functionalities
 This guide will focus on the PixlrE tool, as that’s the professional version widely used in the market.
 ### Step 1: Accessing PixlrE Editor on Browser
 To access PixlrE, the user needs to visit https://pixlr.com/e/
-
+![Picture 1](Picture1.jpg)
 
  <br/>
 
