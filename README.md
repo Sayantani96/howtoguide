@@ -32,51 +32,44 @@ Let’s walk through the Pixlr software and understand its major functionalities
 This guide will focus on the PixlrE tool, as that’s the professional version widely used in the market.
 ### Step 1: Accessing PixlrE Editor on Browser
 To access PixlrE, the user needs to visit https://pixlr.com/e/
-![Picture 1](Picture1.jpg)
-
- <br/>
-
-Sign up or log in to the Pixlr Editor using your email address. Once the authentication is complete, you will be redirected to the editor page.
 <br/>
-
+![Picture 1](Picture1.jpg)
  <br/>
-
+Sign up or log in to the Pixlr Editor using your email address. Once the authentication is complete, you will be redirected to the editor page.
+![Picture2](Picture2.jpg)
+<br/>
 You can upload a photo saved on your system or load the URL of an online image to edit and save it as a graphic. The user can also select the images option on the left sidebar and use the free images.
 <br/>
- 
-
-
+![Picture4](Picture4.jpg) 
  
 ### Step 2: Editing an Image
 Finally, it’s time to edit the photo. Here’s a guide to some of the popular **PixlrE** features:
 -	**Cropping Images:** Cropping is one of the most popular editing options. Select the **Scissor** option from the toolbar on the left-hand side and cut out the unnecessary portions of a picture.
 <br/>
+![Picture5](Picture5.jpg)
 <br/>
 
 -	**Adjusting brightness and Color:** The editor can easily change the brightness by clicking **Adjustment** in the menu bar and then selecting the **Brightness and Contrast** option. In the **Adjustment** drop-down menu, one can find a lot of options to get the optimum color correction for the image.
 <br/>
-
+![Picture6](Picture6.jpg)
 <br/>
 
 -	Adding Layers: You may want to add layers to their pictures to create animations and effects. Click the **Layer** Menu in the **Navbar**. Select the appropriate element from the layer menu to add effects to the image.
 <br/>
-
+![Picture7](Picture7.jpg)
  
 After adding the required effects, the editor can easily preview the changes. In case they don’t like the changes, they can simply **Undo** the changes from the **Edit** menu of the **Navbar** or press **Ctrl+Z**.<br/>
 
 There are a lot of other editing tools, like adding captions of customized fonts to the image or using the **Magic Wand** that automatically selects similar areas of the pictures with similar colors.
 <br/>
-
+![Picture8](Picture8.jpg)
 <br/>
 After the picture is created, the final step is to save the image.
 
 ### Step 3: Downloading the Photo after Editing
- 
+![Picture9](Picture9.jpg) 
 <br/>
-After the image editing is completed, the user must not forget to save the picture on their desktop. It’s highly recommended that the editor save a PXZ copy of the Pixlr file that can be edited later. A JPG or a PNG file would be perfect for social media applications, while a WebP file would be the best for website images.
-<br/>
-<br/>
- 
+After the image editing is completed, the user must not forget to save the picture on their desktop. It’s highly recommended that the editor save a PXZ copy of the Pixlr file that can be edited later. A JPG or a PNG file would be perfect for social media applications, while a WebP file would be the best for website images. 
 ## Key Takeaways…
 
 Pixlr is a blessing for all social media influencers and bloggers looking for a free professional tool to edit their pictures. Here are some reasons why Pixlr stands apart among a plethora of photo editing tools in the market:
