@@ -50,7 +50,7 @@ Finally, it’s time to edit the photo. Here’s a guide to some of the popular 
 -	**Adjusting brightness and Color:** The editor can easily change the brightness by clicking **Adjustment** in the menu bar and then selecting the **Brightness and Contrast** option. In the **Adjustment** drop-down menu, one can find a lot of options to get the optimum color correction for the image.
 <br/>
 
--	Adding Layers: You may want to add layers to their pictures to create animations and effects. Click the **Layer** Menu in the **Navbar**. Select the appropriate element from the layer menu to add effects to the image.<br/>
+-	**Adding Layers:** You may want to add layers to their pictures to create animations and effects. Click the **Layer** Menu in the **Navbar**. Select the appropriate element from the layer menu to add effects to the image.<br/>
  
 After adding the required effects, the editor can easily preview the changes. In case they don’t like the changes, they can simply **Undo** the changes from the **Edit** menu of the **Navbar** or press **Ctrl+Z**.<br/>
 
