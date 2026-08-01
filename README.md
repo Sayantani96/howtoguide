@@ -142,12 +142,12 @@ Using Pixlr E, you can perform common image-editing tasks directly from a web br
 
 In this guide, you learned how to:
 
-- Open an image in Pixlr E.
-- Crop an image.
-- Adjust brightness, contrast, and color.
-- Work with layers.
-- Undo unwanted changes.
-- Use additional editing tools.
-- Save and export the completed image.
+- [Open an image in Pixlr E.](#access-pixlr-e)
+- [Crop an image.](#crop-an-image)
+- [Adjust brightness, contrast, and color.](#adjust-brightness-and-color)
+- [Work with layers.](#add-and-manage-layers)
+- [Undo unwanted changes.](#undo-changes)
+- [Use additional editing tools.](#use-additional-editing-tools)
+- [Save and export the completed image.](#save-and-export-the-image)
 
 Select an export format based on where the image will be used, and retain a PXZ copy when you need to make further edits to the project.
