@@ -1,73 +1,153 @@
-# How to Use Pixlr for Free: A Step-by-Step Guide to Online Photo Editing
-## Tool Description
-**Pixlr** is a free online photo and video editing software with a powerful suite of tools. Its separate versions for newbies and experienced users that cater to both beginners and professionals. 
-<br/>
-The free version provides access to all the basic features, like cropping images, filling in colors, adjusting shadows, and much more.
- <br/> The best part about Pixlr is that you can directly modify a picture from its URL location for personal use, provided you have the necessary permissions.
-<br/>
-Pixlr offers two free versions: **Pixlr X** and **Pixlr E**.
- <br/>
-The major features of **PixlrX** are listed below. <br/>
--	An excellent tool for beginners. Helps aspiring photo editors hone their editing skills.
--	**Resizing and rotating** features.
--	**Crop** features to edit out the unnecessary parts.
--	**Auto-fix** option to change the brightness of a picture to an optimum value.
--	**Preview** option for the edited images before using them.
--	**Free stickers**, **fonts for captions**, and **different shapes of textboxes** to add to the images. 
+# How to Edit Photos Using Pixlr E
 
-The major features of **PixlrE** are listed below. <br/>
--	A more professional tool generally used by bloggers and digital marketers.
--	Sophisticated tools like **Lasso**, **Brush**, and **Clone Stamp** features.
--	**Layering images** feature is just like Adobe Photoshop's premium version.
--	**Cool filters** to change the appearance of a photo.
-## Key Highlights
--	**Free Versions:** PixlrX (for beginners) and PixlrE (for professionals).
--	**Supported By:** Mac, Windows, and mobile browsers.
--	**Who Can Use:** From beginner to advanced, everyone can choose their version and use Pixlr accordingly.
--	**How to Access:** Visit www.pixlr.com.
-### Is Downloading Pixlr Possible?
-Both the free versions of Pixlr are browser-based online tools. You don't need to download an app. Anyone can access Pixlr from any device with a proper internet connection.
-## Guide to Edit Photos with Free Pixlr Tools
-Let’s walk through the Pixlr software and understand its major functionalities.<br/>
-This guide will focus on the PixlrE tool, as that’s the professional version widely used in the market.
-### Step 1: Accessing PixlrE Editor on Browser
-To access PixlrE, the user needs to visit https://pixlr.com/e/
-<br/>
-![Picture 1](Picture1.jpg)
- <br/>
-Sign up or log in to the Pixlr Editor using your email address. Once the authentication is complete, you will be redirected to the editor page.
-![Picture2](Picture2.jpg)
-<br/>
-You can upload a photo saved on your system or load the URL of an online image to edit and save it as a graphic. The user can also select the images option on the left sidebar and use the free images.
-<br/>
-![Picture4](Picture4.jpg) 
- 
-### Step 2: Editing an Image
-Finally, it’s time to edit the photo. Here’s a guide to some of the popular **PixlrE** features:
--	**Cropping Images:** Cropping is one of the most popular editing options. Select the **Scissor** option from the toolbar on the left-hand side and cut out the unnecessary portions of a picture.
-<br/>
+## Overview
 
--	**Adjusting brightness and Color:** The editor can easily change the brightness by clicking **Adjustment** in the menu bar and then selecting the **Brightness and Contrast** option. In the **Adjustment** drop-down menu, one can find a lot of options to get the optimum color correction for the image.
-<br/>
+Pixlr is a browser-based photo editing application that provides tools for creating and editing images without installing desktop software.
 
--	**Adding Layers:** You may want to add layers to their pictures to create animations and effects. Click the **Layer** Menu in the **Navbar**. Select the appropriate element from the layer menu to add effects to the image.<br/>
- 
-After adding the required effects, the editor can easily preview the changes. In case they don’t like the changes, they can simply **Undo** the changes from the **Edit** menu of the **Navbar** or press **Ctrl+Z**.<br/>
+Pixlr offers editing options for different levels of experience:
 
-There are a lot of other editing tools, like adding captions of customized fonts to the image or using the **Magic Wand** that automatically selects similar areas of the pictures with similar colors.
-<br/>
-![Picture8](Picture8.jpg)
-<br/>
-After the picture is created, the final step is to save the image.
+- **Pixlr X** provides simplified editing tools suitable for beginners and common image-editing tasks.
+- **Pixlr E** provides more advanced editing capabilities, including layers, selection tools, brushes, filters, and other image-editing features.
 
-### Step 3: Downloading the Photo after Editing
-![Picture9](Picture9.jpg) 
-<br/>
-After the image editing is completed, the user must not forget to save the picture on their desktop. It’s highly recommended that the editor save a PXZ copy of the Pixlr file that can be edited later. A JPG or a PNG file would be perfect for social media applications, while a WebP file would be the best for website images. 
-## Key Takeaways…
+This guide explains how to use **Pixlr E** to upload an image, perform common editing tasks, and save the finished image.
 
-Pixlr is a blessing for all social media influencers and bloggers looking for a free professional tool to edit their pictures. Here are some reasons why Pixlr stands apart among a plethora of photo editing tools in the market:
--	Being a browser-based software, it allows anyone with a proper internet connection to easily use it. There’s no need to download a large web app on your system that will consume storage.
--	Helps in the free basic editing when a lot of premium features are not needed.
--	Pixlr offers some amazing free designs, stickers, and font options for creating cool captions, adding effects, and animations. In case someone is looking for a premium version but wants to check out the tool first, Pixlr provides free access for 30 days. Here’s the link: Pixlr Premium FREE for 7 days.
-  
+## Prerequisites
+
+Before you begin, ensure that:
+
+- You have a stable internet connection.
+- You are using a supported web browser.
+- The image you want to edit is available on your device or through an accessible URL.
+- You have permission to use and modify the selected image.
+
+---
+
+## Access Pixlr E
+
+1. Open the **Pixlr E editor** in your web browser.
+2. Sign up for a Pixlr account or log in using your existing credentials, if required.
+3. After authentication, access the editor.
+
+![Pixlr E login screen](Picture1.jpg)
+
+The editor provides several options for starting a project.
+
+![Pixlr E editor](Picture2.jpg)
+
+You can:
+
+- Upload an image stored on your device.
+- Open an image using its URL, where supported.
+- Select an available image from Pixlr's image library.
+
+Select the appropriate option and open the image you want to edit.
+
+![Image selection options](Picture4.jpg)
+
+---
+
+## Edit an Image
+
+After opening an image, use the editing tools available in Pixlr E to modify it.
+
+The following sections describe some common editing tasks.
+
+### Crop an Image
+
+Use the crop tool to remove unwanted areas from an image or change its dimensions.
+
+1. Select the **Crop** tool from the toolbar.
+2. Adjust the crop boundaries around the portion of the image you want to retain.
+3. Review the selected area.
+4. Apply the crop.
+
+The areas outside the selected boundaries are removed from the image.
+
+### Adjust Brightness and Color
+
+You can adjust an image's brightness, contrast, and color settings using the available adjustment controls.
+
+1. From the menu bar, select **Adjustment**.
+2. Select **Brightness & Contrast**.
+3. Adjust the available settings until you achieve the required result.
+4. Apply the changes.
+
+The **Adjustment** menu also provides additional options for modifying the appearance and color properties of an image.
+
+### Add and Manage Layers
+
+Layers allow you to work with different elements of an image independently.
+
+To add a layer:
+
+1. Select **Layer** from the menu bar.
+2. Select the appropriate option for the type of layer you want to add.
+3. Add or modify the required content.
+4. Reposition or adjust the layer as necessary.
+
+Using separate layers makes it easier to edit individual elements without modifying the rest of the image.
+
+### Undo Changes
+
+If you want to reverse a recent change:
+
+1. Select **Edit** from the menu bar.
+2. Select **Undo**.
+
+Alternatively, press **Ctrl+Z** on Windows.
+
+You can use the Undo option while editing to revert unwanted changes.
+
+### Use Additional Editing Tools
+
+Pixlr E also provides additional tools for more advanced editing tasks.
+
+Depending on your requirements, you can use tools such as:
+
+- **Lasso** to select specific areas of an image.
+- **Brush** to draw or paint directly on an image.
+- **Clone Stamp** to duplicate pixels from one area of an image to another.
+- **Magic Wand** to select areas containing similar colors.
+- **Text tools** to add captions or other text elements.
+- **Filters and effects** to modify the overall appearance of an image.
+
+![Pixlr E editing tools](Picture8.jpg)
+
+After completing your edits, review the image before exporting it.
+
+---
+
+## Save and Export the Image
+
+After editing the image, save or export the completed work.
+
+![Pixlr E export options](Picture9.jpg)
+
+Choose a file format based on how you intend to use the image.
+
+| Format | Recommended Use |
+| --- | --- |
+| **PXZ** | Retaining an editable Pixlr project for future modifications |
+| **JPG** | Photographs and images where smaller file sizes are preferred |
+| **PNG** | Images that require high quality or transparency |
+| **WebP** | Optimized images intended for websites |
+
+If you plan to edit the project again, save a **PXZ** copy before exporting the final image.
+
+---
+
+## Summary
+
+Using Pixlr E, you can perform common image-editing tasks directly from a web browser without installing desktop editing software.
+
+In this guide, you learned how to:
+
+- Open an image in Pixlr E.
+- Crop an image.
+- Adjust brightness, contrast, and color.
+- Work with layers.
+- Undo unwanted changes.
+- Use additional editing tools.
+- Save and export the completed image.
+
+Select an export format based on where the image will be used, and retain a PXZ copy when you need to make further edits to the project.
