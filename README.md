@@ -4,7 +4,7 @@
 
 Pixlr is a browser-based photo editing application that provides tools for creating and editing images without installing desktop software.
 
-Pixlr offers editing options for different levels of experience:
+It offers two versions for different levels of experience:
 
 - **Pixlr X** provides simplified editing tools suitable for beginners and common image-editing tasks.
 - **Pixlr E** provides more advanced editing capabilities, including layers, selection tools, brushes, filters, and other image-editing features.
